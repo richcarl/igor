@@ -1,0 +1,9 @@
+% This is an -*- erlang -*- file.
+
+{application, igor,
+ [{description, "Erlang module merger and renamer"},
+  {vsn, "%VSN%"},
+  {modules, [igor]},
+  {registered,[]},
+  {applications, [kernel, stdlib]},
+  {env, []}]}.

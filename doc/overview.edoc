@@ -1,0 +1,12 @@
+			-*- html -*-
+
+	Igor overview page
+
+@author Richard Carlsson <carlsson.richard@gmail.com>
+@copyright 1997-2020 Richard Carlsson
+@version {@version}
+@title Igor - a module merger and renamer
+
+@doc Igor is a tool for merging and renaming Erlang modules.
+
+See the {@link igor} module for more details.

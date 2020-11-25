@@ -675,7 +675,7 @@ merge_files1(Files, Opts) ->
 %%
 %% @see create_stubs/2
 %% @see rename/3
-%% @see erl_tidy:module/2
+%% @see //erl_tidy/erl_tidy:module/2
 
 %% Currently, there is no run-time support in Erlang for detecting
 %% whether some module has been changed since the current module was
